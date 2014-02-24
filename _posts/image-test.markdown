@@ -5,4 +5,4 @@ date:   2014-02-24 16:08:54
 categories: etc
 ---
 
-the image will be here soon
+Here is the [very cool picture of the punch card](https://eclectictechcarnival.org/etc-punch.jpg).
