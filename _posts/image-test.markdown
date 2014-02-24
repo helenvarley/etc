@@ -7,4 +7,5 @@ categories: etc
 
 Here is the [very cool picture of the punch card](https://eclectictechcarnival.org/etc-punch.jpg).
 
-This is the picture ![punch pic](https://eclectictechcarnival.org/etc-punch.jpg "punch card: /ETC")
+This is the picture:
+![punch pic](https://eclectictechcarnival.org/etc-punch.jpg "punch card: /ETC")
